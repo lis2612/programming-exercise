@@ -1,2 +1,3 @@
 # Exercise
-It is exercises for learning JS and Python
+It is exercises from my brother.
+He interessed how who doing it
